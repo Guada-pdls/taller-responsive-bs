@@ -1,0 +1,13 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carousel p {
+    text-align: center;
+}
+
+.list-group {
+    width: 15vw;
+}
